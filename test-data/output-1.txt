@@ -1,2 +1,3 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- T1
+FAIL  # <- T2 is empty
