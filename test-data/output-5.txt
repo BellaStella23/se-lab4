@@ -1,2 +1,2 @@
-SUCCESS  # <- T1 fire
-SUCCESS  # <- T2 fire
+SUCCESS  # <- GT4500
+SUCCESS  # <- T1, T2 fire
