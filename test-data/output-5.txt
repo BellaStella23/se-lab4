@@ -1,2 +1,4 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- T1, T2 fire
+SUCCESS  # <- T1, T2 fire
+FAIL  # <- T1, T2 fire
